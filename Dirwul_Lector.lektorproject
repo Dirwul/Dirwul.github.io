@@ -1,0 +1,6 @@
+[project]
+name = Dirwul_Lector
+
+[servers.ghpages]
+name = Prod
+target = 
